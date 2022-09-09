@@ -1,5 +1,9 @@
 # Cypress Todo
 
+<h1 align="center">
+    <img alt="Layout Website" src="./cypress/images/cypress.png" width="100%" />
+</h1>
+
 ## Projeto
 
 Projeto desenvolvido para estudos utilizando Cypress
