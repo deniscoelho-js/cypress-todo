@@ -15,6 +15,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [x] Cypress
 - [x] Javascript
 - [x] Mochajs
+- [x] ChaiJs
 
 ## Instalação e uso
 
