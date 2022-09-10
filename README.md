@@ -36,6 +36,6 @@ Siga os passos abaixo
 # Instale as dependências
 $ npm i or yarn
 
-# Inicie o servidor
-$ npm run dev or yarn dev
+# Rodar os testes
+$ npx cypress open
 ```
